@@ -1,0 +1,54 @@
+{
+ "at": "2026-11-15T15:43:45.946844Z",
+ "sources": {
+  "gratka": {
+   "requests": [
+    {
+     "url": "https://gratka.pl/nieruchomosci/mieszkania/gdynia/wynajem?liczba-pokoi:min=3&liczba-pokoi:max=3&cena-calkowita:max=3500",
+     "http": 200,
+     "bytes": 972219
+    }
+   ],
+   "links": 77
+  },
+  "morizon": {
+   "requests": [
+    {
+     "url": "https://www.morizon.pl/do-wynajecia/mieszkania/gdynia/?ps%5Bnumber_of_rooms_from%5D=3&ps%5Bnumber_of_rooms_to%5D=3&ps%5Bprice_to%5D=3500",
+     "http": 200,
+     "bytes": 945100
+    }
+   ],
+   "links": 70
+  },
+  "trojmiasto": {
+   "requests": [
+    {
+     "url": "https://ogloszenia.trojmiasto.pl/nieruchomosci-mam-do-wynajecia/mieszkanie/gdynia/ai,3_3,ri,_3500.html",
+     "http": 403,
+     "bytes": 6016
+    }
+   ],
+   "links": 0
+  },
+  "okolica": {
+   "requests": [
+    {
+     "url": "https://www.okolica.pl/wynajem/mieszkania/gdynia",
+     "http": 404,
+     "bytes": 817
+    }
+   ],
+   "links": 0
+  },
+  "krm": {
+   "requests": [
+    {
+     "url": "https://krm.pl/wynajem/mieszkania/gdynia",
+     "error": "HTTPSConnectionPool(host='krm.pl', port=443): Max retries exceeded with url: /wynajem/mieszkania/gdynia (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate ve"
+    }
+   ],
+   "links": 0
+  }
+ }
+}
