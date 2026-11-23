@@ -1,12 +1,12 @@
 {
- "at": "2026-11-22T21:06:24.779414Z",
+ "at": "2026-11-23T20:21:29.368453Z",
  "sources": {
   "gratka": {
    "requests": [
     {
      "url": "https://gratka.pl/nieruchomosci/mieszkania/gdynia/wynajem?liczba-pokoi:min=3&liczba-pokoi:max=3&cena-calkowita:max=3500",
      "http": 200,
-     "bytes": 976922
+     "bytes": 980831
     }
    ],
    "links": 79
@@ -16,7 +16,7 @@
     {
      "url": "https://www.morizon.pl/do-wynajecia/mieszkania/gdynia/?ps%5Bnumber_of_rooms_from%5D=3&ps%5Bnumber_of_rooms_to%5D=3&ps%5Bprice_to%5D=3500",
      "http": 200,
-     "bytes": 949535
+     "bytes": 955213
     }
    ],
    "links": 72
