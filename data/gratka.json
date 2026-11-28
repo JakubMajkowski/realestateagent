@@ -218,19 +218,19 @@
  {
   "url": "https://gratka.pl/mapa/nieruchomosci/mieszkania/3-pokojowe/gdynia/wynajem?cena-calkowita:max=3500",
   "text": "Zobacz na mapie",
-  "context": "Zobacz na mapie Rysuj obszar",
-  "img": ""
- },
- {
-  "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/gdynia/orlowo/wynajem",
-  "text": "Mieszkania na wynajem 3-pokojowe - Orłowo",
-  "context": "Mieszkania na wynajem 3-pokojowe - Orłowo",
+  "context": "Zobacz na mapie Czas dojazdu Rysuj obszar",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/gdynia/srodmiescie/wynajem",
   "text": "Mieszkania na wynajem 3-pokojowe - Śródmieście",
   "context": "Mieszkania na wynajem 3-pokojowe - Śródmieście",
+  "img": ""
+ },
+ {
+  "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/gdynia/orlowo/wynajem",
+  "text": "Mieszkania na wynajem 3-pokojowe - Orłowo",
+  "context": "Mieszkania na wynajem 3-pokojowe - Orłowo",
   "img": ""
  },
  {
@@ -258,18 +258,6 @@
   "img": ""
  },
  {
-  "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/gdynia/wzgorze-swietego-maksymiliana/wynajem",
-  "text": "Mieszkania na wynajem 3-pokojowe - Wzgórze Świętego Maksymiliana",
-  "context": "Mieszkania na wynajem 3-pokojowe - Wzgórze Świętego Maksymiliana",
-  "img": ""
- },
- {
-  "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/gdynia/dzialki-lesne/wynajem",
-  "text": "Mieszkania na wynajem 3-pokojowe - Działki Leśne",
-  "context": "Mieszkania na wynajem 3-pokojowe - Działki Leśne",
-  "img": ""
- },
- {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/gdynia/chwarzno-wiczlino/wynajem",
   "text": "Mieszkania na wynajem 3-pokojowe - Chwarzno-Wiczlino",
   "context": "Mieszkania na wynajem 3-pokojowe - Chwarzno-Wiczlino",
@@ -282,10 +270,34 @@
   "img": ""
  },
  {
-  "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/gdynia/wielki-kack/wynajem",
-  "text": "Mieszkania na wynajem 3-pokojowe - Wielki Kack",
-  "context": "Mieszkania na wynajem 3-pokojowe - Wielki Kack",
+  "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/gdynia/dzialki-lesne/wynajem",
+  "text": "Mieszkania na wynajem 3-pokojowe - Działki Leśne",
+  "context": "Mieszkania na wynajem 3-pokojowe - Działki Leśne",
   "img": ""
+ },
+ {
+  "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/gdynia/wzgorze-swietego-maksymiliana/wynajem",
+  "text": "Mieszkania na wynajem 3-pokojowe - Wzgórze Świętego Maksymiliana",
+  "context": "Mieszkania na wynajem 3-pokojowe - Wzgórze Świętego Maksymiliana",
+  "img": ""
+ },
+ {
+  "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/gdynia/chylonia/wynajem",
+  "text": "Mieszkania na wynajem 3-pokojowe - Chylonia",
+  "context": "Mieszkania na wynajem 3-pokojowe - Chylonia",
+  "img": ""
+ },
+ {
+  "url": "https://gratka.pl/blog/planowanie-instalacji-elektrycznej-w-mieszkaniu-gdzie-rozmiescic-gniazdka/",
+  "text": "Planowanie instalacji elektrycznej w mieszkaniu. Gdzie rozmieścić gniazdka? Brak gniazdka przy łóżku, kontakt za szafą albo za mało punktów świetlnych nad blatem – takie błędy wychodzą na jaw dopiero po ustawieniu mebli. Ich naprawa oznacza dodatkowe koszty i kucie ścian. Dlatego planowanie instalac",
+  "context": "Planowanie instalacji elektrycznej w mieszkaniu. Gdzie rozmieścić gniazdka? Brak gniazdka przy łóżku, kontakt za szafą albo za mało punktów świetlnych nad blatem – takie błędy wychodzą na jaw dopiero po ustawieniu mebli. Ich naprawa oznacza dodatkowe koszty i kucie ścian. Dlatego planowanie instalacji elektrycznej w mieszkaniu warto rozpocząć jeszcze przed...",
+  "img": "https://thumbs.cdngr.pl/thumb/aHR0cHM6Ly9ncmF0a2EucGwvYmxvZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8xMS9yb3ptaWVzemN6ZW5pZS1nbmlhemRlay13LW1pZXN6a2FuaXUtMzAweDE3NS5wbmc=/3x2_s:fill_and_crop/planowanie-instalacji-elektrycznej-w-mieszkaniu-gdzie-rozmiescic-gniazdka.jpg"
+ },
+ {
+  "url": "https://gratka.pl/blog/gdzie-mieszkania-tanieja-a-gdzie-trzeba-zaplacic-coraz-wiecej/",
+  "text": "Gdzie mieszkania tanieją, a gdzie trzeba zapłacić coraz więcej? Ceny mieszkań w Polsce nadal rosną, ale tempo zmian mocno różni się w zależności od miasta, wynika z danych serwisu Gratka. W październiku 2026 r. mediana ceny metra kwadratowego w kraju osiągnęła 13 453 zł, czyli o 9 proc. więcej niż r",
+  "context": "Gdzie mieszkania tanieją, a gdzie trzeba zapłacić coraz więcej? Ceny mieszkań w Polsce nadal rosną, ale tempo zmian mocno różni się w zależności od miasta, wynika z danych serwisu Gratka. W październiku 2026 r. mediana ceny metra kwadratowego w kraju osiągnęła 13 453 zł, czyli o 9 proc. więcej niż rok wcześniej. Są jednak miasta, w których kupujący mogą...",
+  "img": "https://thumbs.cdngr.pl/thumb/aHR0cHM6Ly9ncmF0a2EucGwvYmxvZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8xMS9jZW55LW1pZXN6a2FuLXBhemR6aWVybmlrLTIwMjYtMzAweDE3NS5qcGc=/3x2_s:fill_and_crop/gdzie-mieszkania-tanieja-a-gdzie-trzeba-zaplacic-coraz-wiecej.jpg"
  },
  {
   "url": "https://gratka.pl/blog/te-liczniki-w-blokach-trzeba-wymienic-zarzadcy-maja-czas-do-1-stycznia-2027-r/",
@@ -312,153 +324,141 @@
   "img": "https://thumbs.cdngr.pl/thumb/aHR0cHM6Ly9ncmF0a2EucGwvYmxvZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8xMS9wcnplZ2xhZC1pLWN6eXN6Y3plbmllLWtvbWluYS0zMDB4MTc1LnBuZw==/3x2_s:fill_and_crop/przeglad-i-czyszczenie-komina-kiedy-trzeba-je-wykonac.jpg"
  },
  {
-  "url": "https://gratka.pl/blog/ponad-72-tys-mieszkan-w-ofertach-deweloperow-gdzie-ceny-rosna-a-gdzie-spadaja/",
-  "text": "Ponad 72 tys. mieszkań w ofertach deweloperów. Gdzie ceny rosną, a gdzie spadają? Październik przyniósł wyraźny wzrost liczby mieszkań oferowanych przez deweloperów. Z danych Grupy Morizon-Gratka wynika, że na rynku pierwotnym dostępnych było ponad 72 tys. ofert, czyli o blisko 13 proc. więcej niż w",
-  "context": "Ponad 72 tys. mieszkań w ofertach deweloperów. Gdzie ceny rosną, a gdzie spadają? Październik przyniósł wyraźny wzrost liczby mieszkań oferowanych przez deweloperów. Z danych Grupy Morizon-Gratka wynika, że na rynku pierwotnym dostępnych było ponad 72 tys. ofert, czyli o blisko 13 proc. więcej niż we wrześniu. Choć w większości analizowanych miast ceny ofertowe są wyższe niż...",
-  "img": "https://thumbs.cdngr.pl/thumb/aHR0cHM6Ly9ncmF0a2EucGwvYmxvZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8xMS9yb3NuaWUtb2ZlcnRhLW1pZXN6a2FuLW9kLWRld2Vsb3Blcm93LTMwMHgxNzUuanBn/3x2_s:fill_and_crop/ponad-72-tys-mieszkan-w-ofertach-deweloperow-gdzie-ceny-rosna-a-gdzie-spadaja.jpg"
- },
- {
-  "url": "https://gratka.pl/blog/taras-caloroczny-bez-budowy-jakie-sa-mozliwosci/",
-  "text": "Taras całoroczny bez budowy: jakie są możliwości? Deszcz, wiatr i chłód potrafią skutecznie skrócić sezon wypoczynku na tarasie. Nie oznacza to jednak, że trzeba od razu budować ogród zimowy lub rozbudowywać dom. Odpowiednio dobrane zadaszenie, osłony boczne i dodatkowe źródło ciepła pozwalają korzy",
-  "context": "Taras całoroczny bez budowy: jakie są możliwości? Deszcz, wiatr i chłód potrafią skutecznie skrócić sezon wypoczynku na tarasie. Nie oznacza to jednak, że trzeba od razu budować ogród zimowy lub rozbudowywać dom. Odpowiednio dobrane zadaszenie, osłony boczne i dodatkowe źródło ciepła pozwalają korzystać z tej przestrzeni przez większą część...",
-  "img": "https://thumbs.cdngr.pl/thumb/aHR0cHM6Ly9ncmF0a2EucGwvYmxvZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8xMS90YXJhcy1jYWxvcm9jem55LTMwMHgxNzUuanBn/3x2_s:fill_and_crop/taras-caloroczny-bez-budowy-jakie-sa-mozliwosci.jpg"
- },
- {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/gdansk/wynajem",
   "text": "Gdańsk - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/sopot/wynajem",
   "text": "Sopot - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/rumia/wynajem",
   "text": "Rumia - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/slupsk/wynajem",
   "text": "Słupsk - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/starogard-gdanski/wynajem",
   "text": "Starogard Gdański - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/wejherowo/wynajem",
   "text": "Wejherowo - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/tczew/wynajem",
   "text": "Tczew - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/kwidzyn/wynajem",
   "text": "Kwidzyn - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
-  "img": ""
- },
- {
-  "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/pruszcz-gdanski/wynajem",
-  "text": "Pruszcz Gdański - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/reda/wynajem",
   "text": "Reda - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
+  "img": ""
+ },
+ {
+  "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/pruszcz-gdanski/wynajem",
+  "text": "Pruszcz Gdański - mieszkania na wynajem - 3-pokojowe",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/kowale-7596/wynajem",
   "text": "Kowale - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
-  "img": ""
- },
- {
-  "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/koscierzyna/wynajem",
-  "text": "Kościerzyna - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/mechelinki/wynajem",
   "text": "Mechelinki - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
+  "img": ""
+ },
+ {
+  "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/koscierzyna/wynajem",
+  "text": "Kościerzyna - mieszkania na wynajem - 3-pokojowe",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/lebork/wynajem",
   "text": "Lębork - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/malbork/wynajem",
   "text": "Malbork - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/puck/wynajem",
   "text": "Puck - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/ustka/wynajem",
   "text": "Ustka - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
-  "img": ""
- },
- {
-  "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/chojnice/wynajem",
-  "text": "Chojnice - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/borkowo/wynajem",
   "text": "Borkowo - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
+  "img": ""
+ },
+ {
+  "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/chojnice/wynajem",
+  "text": "Chojnice - mieszkania na wynajem - 3-pokojowe",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/czluchow/wynajem",
   "text": "Człuchów - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/lisewo-34878/wynajem",
   "text": "Lisewo - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/rotmanka/wynajem",
   "text": "Rotmanka - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  },
  {
   "url": "https://gratka.pl/nieruchomosci/mieszkania/3-pokojowe/wislinka/wynajem",
   "text": "Wiślinka - mieszkania na wynajem - 3-pokojowe",
-  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Pruszcz Gdański - mieszkania na wyna",
+  "context": "Gdańsk - mieszkania na wynajem - 3-pokojowe Sopot - mieszkania na wynajem - 3-pokojowe Rumia - mieszkania na wynajem - 3-pokojowe Słupsk - mieszkania na wynajem - 3-pokojowe Starogard Gdański - mieszkania na wynajem - 3-pokojowe Wejherowo - mieszkania na wynajem - 3-pokojowe Tczew - mieszkania na wynajem - 3-pokojowe Kwidzyn - mieszkania na wynajem - 3-pokojowe Reda - mieszkania na wynajem - 3-pok",
   "img": ""
  }
 ]
